@@ -1,3 +1,6 @@
+<img width="350" src="https://github.com/user-attachments/assets/6b8c488d-0669-415f-9a5f-5fe7922fa19f" />
+
+
 # Awesome Codesnap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Collections of awesome codesnap configs, feel free to share your preferred configuration!
 
