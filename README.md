@@ -11,8 +11,6 @@ Collections of awesome codesnap configs, feel free to share your preferred confi
 <details>
 <summary>Mei</summary>
 
-CodeSnap is available in the [extra repository](https://archlinux.org/packages/extra/x86_64/codesnap/):
-
 ![image](https://github.com/user-attachments/assets/6533ef05-3f6b-423f-bc9e-3ce76c8c98a7)
 
 
