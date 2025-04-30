@@ -3,7 +3,7 @@ Collections of awesome codesnap configs, feel free to share your preferred confi
 
 ## How to use these configurations
 1. Pick your preferred configuration
-2. Replace your local configuration at `~/.config/CodeSnap/config.json`
+2. Replace your local configuration (If you are using CLI, the config file is located at `~/.config/CodeSnap/config.json`)
 3. Run codesnap!
 
 ## Configurations
